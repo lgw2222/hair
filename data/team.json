@@ -84,12 +84,12 @@
   },
   {
    "slot": "D/ST",
-   "name": "Bears",
-   "team": "CHI",
+   "name": "Browns",
+   "team": "CLE",
    "pos": "D/ST",
-   "espnId": -16003,
-   "pts": 9.0,
-   "proj": 5.49,
+   "espnId": -16005,
+   "pts": 8.0,
+   "proj": 5.65,
    "injury": "ACTIVE"
   },
   {
@@ -109,7 +109,7 @@
    "pos": "RB",
    "espnId": 4685382,
    "pts": 13.3,
-   "proj": 11.57,
+   "proj": 12.01,
    "injury": "ACTIVE"
   },
   {
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-10-11T00:44:10+00:00"
+ "updated": "2026-10-11T13:17:10+00:00"
 }

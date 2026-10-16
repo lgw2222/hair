@@ -6,7 +6,7 @@
   "record": "3-2-0"
  },
  "matchup": {
-  "me": 6.1,
+  "me": 30.6,
   "opp": 0,
   "meName": "Knee-ver Over the Hill",
   "oppName": "Favre Dollar Footlong"
@@ -38,7 +38,7 @@
    "team": "SEA",
    "pos": "RB",
    "espnId": 4887558,
-   "pts": 3.0,
+   "pts": 5.2,
    "proj": 14.84,
    "injury": "ACTIVE"
   },
@@ -48,7 +48,7 @@
    "team": "SEA",
    "pos": "WR",
    "espnId": 4430878,
-   "pts": 3.1,
+   "pts": 25.4,
    "proj": 19.04,
    "injury": "ACTIVE"
   },
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-10-16T01:44:50+00:00"
+ "updated": "2026-10-16T06:25:28+00:00"
 }

@@ -6,8 +6,8 @@
   "record": "3-2-0"
  },
  "matchup": {
-  "me": 98.6,
-  "opp": 65.1,
+  "me": 112.8,
+  "opp": 74.8,
   "meName": "Knee-ver Over the Hill",
   "oppName": "Favre Dollar Footlong"
  },
@@ -18,7 +18,7 @@
    "team": "NYG",
    "pos": "QB",
    "espnId": 2969939,
-   "pts": 7.4,
+   "pts": 6.4,
    "proj": 16.98,
    "injury": "ACTIVE"
   },
@@ -58,7 +58,7 @@
    "team": "NYG",
    "pos": "WR",
    "espnId": 4595348,
-   "pts": 13.3,
+   "pts": 28.5,
    "proj": 17.36,
    "injury": "ACTIVE"
   },
@@ -108,7 +108,7 @@
    "team": "LAC",
    "pos": "RB",
    "espnId": 4685382,
-   "pts": 4.9,
+   "pts": 1.8,
    "proj": 8.98,
    "injury": "ACTIVE"
   },
@@ -128,7 +128,7 @@
    "team": "LAR",
    "pos": "RB",
    "espnId": 4429096,
-   "pts": 16.2,
+   "pts": 12.3,
    "proj": 8.97,
    "injury": "ACTIVE"
   },
@@ -138,7 +138,7 @@
    "team": "IND",
    "pos": "WR",
    "espnId": 4688813,
-   "pts": 5.4,
+   "pts": 8.7,
    "proj": 9.95,
    "injury": "ACTIVE"
   },
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-10-18T19:27:53+00:00"
+ "updated": "2026-10-18T21:39:04+00:00"
 }

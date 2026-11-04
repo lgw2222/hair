@@ -29,7 +29,7 @@
    "pos": "RB",
    "espnId": 4882093,
    "pts": 29.9,
-   "proj": 15.29,
+   "proj": 15.3,
    "injury": "QUESTIONABLE"
   },
   {
@@ -64,22 +64,22 @@
   },
   {
    "slot": "FLEX",
-   "name": "Makai Lemon",
-   "team": "PHI",
-   "pos": "WR",
-   "espnId": 4870795,
-   "pts": 11.7,
-   "proj": 10.54,
-   "injury": "ACTIVE"
-  },
-  {
-   "slot": "FLEX",
    "name": "Kyle Pitts Sr.",
    "team": "ATL",
    "pos": "TE",
    "espnId": 4360248,
    "pts": 2.6,
    "proj": 10.1,
+   "injury": "ACTIVE"
+  },
+  {
+   "slot": "FLEX",
+   "name": "Adonai Mitchell",
+   "team": "NYJ",
+   "pos": "WR",
+   "espnId": 4597500,
+   "pts": 27.2,
+   "proj": 9.76,
    "injury": "ACTIVE"
   },
   {
@@ -149,7 +149,7 @@
    "pos": "WR",
    "espnId": 4569559,
    "pts": 0.0,
-   "proj": 9.92,
+   "proj": 10.0,
    "injury": "ACTIVE"
   },
   {
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-03T22:21:10+00:00"
+ "updated": "2026-11-04T09:36:18+00:00"
 }

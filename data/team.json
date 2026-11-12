@@ -150,7 +150,7 @@
    "espnId": 4429023,
    "pts": 0.0,
    "proj": 7.38,
-   "injury": "OUT"
+   "injury": "ACTIVE"
   },
   {
    "slot": "Bench",
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-11T23:31:44+00:00"
+ "updated": "2026-11-12T20:20:07+00:00"
 }

@@ -7,7 +7,7 @@
  },
  "matchup": {
   "me": 0,
-  "opp": 14.3,
+  "opp": 35.1,
   "meName": "Knee-ver Over the Hill",
   "oppName": "Brownie 2.0 \ud83c\udfc8"
  },
@@ -193,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-20T02:33:48+00:00"
+ "updated": "2026-11-20T10:23:21+00:00"
 }

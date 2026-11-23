@@ -6,8 +6,8 @@
   "record": "8-2-0"
  },
  "matchup": {
-  "me": 30.2,
-  "opp": 78.6,
+  "me": 82.6,
+  "opp": 92.4,
   "meName": "Knee-ver Over the Hill",
   "oppName": "Brownie 2.0 \ud83c\udfc8"
  },
@@ -28,7 +28,7 @@
    "team": "LAC",
    "pos": "RB",
    "espnId": 4685382,
-   "pts": 0.0,
+   "pts": 10.3,
    "proj": 13.46,
    "injury": "ACTIVE"
   },
@@ -38,7 +38,7 @@
    "team": "JAX",
    "pos": "RB",
    "espnId": 4882093,
-   "pts": 20.3,
+   "pts": 8.3,
    "proj": 16.9,
    "injury": "ACTIVE"
   },
@@ -48,7 +48,7 @@
    "team": "NYG",
    "pos": "WR",
    "espnId": 4595348,
-   "pts": 7.4,
+   "pts": 18.5,
    "proj": 16.19,
    "injury": "ACTIVE"
   },
@@ -68,9 +68,9 @@
    "team": "SF",
    "pos": "WR",
    "espnId": 16737,
-   "pts": 0.0,
+   "pts": 2.4,
    "proj": 11.47,
-   "injury": "QUESTIONABLE"
+   "injury": "ACTIVE"
   },
   {
    "slot": "FLEX",
@@ -78,7 +78,7 @@
    "team": "NYJ",
    "pos": "WR",
    "espnId": 4597500,
-   "pts": 3.1,
+   "pts": 5.0,
    "proj": 10.68,
    "injury": "ACTIVE"
   },
@@ -98,7 +98,7 @@
    "team": "NYJ",
    "pos": "K",
    "espnId": 3124679,
-   "pts": 0.0,
+   "pts": 11.0,
    "proj": 9.48,
    "injury": "ACTIVE"
   },
@@ -183,5 +183,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-22T21:10:53+00:00"
+ "updated": "2026-11-23T01:38:14+00:00"
 }

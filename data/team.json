@@ -6,8 +6,8 @@
   "record": "8-2-0"
  },
  "matchup": {
-  "me": 103.1,
-  "opp": 84.4,
+  "me": 123.0,
+  "opp": 94.4,
   "meName": "Knee-ver Over the Hill",
   "oppName": "Brownie 2.0 \ud83c\udfc8"
  },
@@ -18,7 +18,7 @@
    "team": "CIN",
    "pos": "QB",
    "espnId": 3915511,
-   "pts": 32.8,
+   "pts": 19.9,
    "proj": 22.27,
    "injury": "ACTIVE"
   },
@@ -183,5 +183,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-23T21:41:03+00:00"
+ "updated": "2026-11-24T05:30:26+00:00"
 }

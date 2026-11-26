@@ -44,6 +44,16 @@
   },
   {
    "slot": "WR",
+   "name": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "pos": "WR",
+   "espnId": 4430878,
+   "pts": 0.0,
+   "proj": 21.6,
+   "injury": "QUESTIONABLE"
+  },
+  {
+   "slot": "WR",
    "name": "Malik Nabers",
    "team": "NYG",
    "pos": "WR",
@@ -53,23 +63,13 @@
    "injury": "ACTIVE"
   },
   {
-   "slot": "WR",
+   "slot": "FLEX",
    "name": "Tetairoa McMillan",
    "team": "CAR",
    "pos": "WR",
    "espnId": 4685472,
    "pts": 19.1,
    "proj": 13.38,
-   "injury": "QUESTIONABLE"
-  },
-  {
-   "slot": "FLEX",
-   "name": "Jaxon Smith-Njigba",
-   "team": "SEA",
-   "pos": "WR",
-   "espnId": 4430878,
-   "pts": 0.0,
-   "proj": 21.6,
    "injury": "QUESTIONABLE"
   },
   {
@@ -84,12 +84,12 @@
   },
   {
    "slot": "D/ST",
-   "name": "Chiefs",
-   "team": "KC",
+   "name": "Browns",
+   "team": "CLE",
    "pos": "D/ST",
-   "espnId": -16012,
-   "pts": 8.0,
-   "proj": 5.18,
+   "espnId": -16005,
+   "pts": 0.0,
+   "proj": 6.69,
    "injury": "ACTIVE"
   },
   {
@@ -130,6 +130,16 @@
    "espnId": 4597500,
    "pts": 5.0,
    "proj": 10.24,
+   "injury": "ACTIVE"
+  },
+  {
+   "slot": "Bench",
+   "name": "Chiefs",
+   "team": "KC",
+   "pos": "D/ST",
+   "espnId": -16012,
+   "pts": 8.0,
+   "proj": 5.18,
    "injury": "ACTIVE"
   },
   {
@@ -183,5 +193,5 @@
    "injury": "INJURY_RESERVE"
   }
  ],
- "updated": "2026-11-26T10:48:06+00:00"
+ "updated": "2026-11-26T19:51:34+00:00"
 }
